@@ -8,3 +8,4 @@ In this directory you can found the shell-scripting.
 6-firstdirectory: Contains two coding lines that create a directory in tmp directory.
 7-movethatfile: Contains two coding lines that move the file 'betty' from /tmp to /tmp/my_first_directory.
 8-firstdelete: Contains two coding lines that remove betty.
+9-firstdirdeletion: Contains two coding lines that remove the directory my_first_directory.
