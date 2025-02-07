@@ -4,3 +4,4 @@ In this directory you can found the shell-scripting.
 2-bring_me_home: Contains two coding lines without Shell variables that it direct you to the home directory.
 3-listfiles: Contains two coding lines that show the files in a long format.
 4-listmorefiles: Contains two coding lines that show all the files and the hidden ones in a long format.
+5-listfilesdigitonly: Contains two coding lines that show all the files, directories, hidden files and its number ID's in a long format
