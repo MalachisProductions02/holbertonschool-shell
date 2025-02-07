@@ -6,3 +6,5 @@ In this directory you can found the shell-scripting.
 4-listmorefiles: Contains two coding lines that show all the files and the hidden ones in a long format.
 5-listfilesdigitonly: Contains two coding lines that show all the files, directories, hidden files and its number ID's in a long format.
 6-firstdirectory: Contains two coding lines that create a directory in tmp directory.
+7-movethatfile: Contains two coding lines that move the file 'betty' from /tmp to /tmp/my_first_directory.
+8-firstdelete: Contains two coding lines that remove betty.
