@@ -1,2 +1,2 @@
 #!/bin/bash
-paste - - < /dev/stdin
+nl | grep '^[[:space:]]*[1-9]*[13579][[:space:]]' | cut -f2-
